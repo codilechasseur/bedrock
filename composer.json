@@ -37,7 +37,14 @@
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.1",
-    "roots/soil": "3.6.2"
+    "roots/soil": "3.6.2",
+    "wpackagist-plugin/ewww-image-optimizer": "2.5.7",
+    "wpackagist-plugin/wordpress-seo": "3.0.7"
+  },
+  "require-dev": {
+    "wpackagist-plugin/query-monitor": "2.8.1",
+    "wpackagist-plugin/rewrite-rules-inspector": "1.2.1",
+    "wpackagist-plugin/p3-profiler": "1.5.3.9"
   },
   "extra": {
     "installer-paths": {
